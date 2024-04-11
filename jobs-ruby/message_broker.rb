@@ -27,3 +27,5 @@ module EnterpriseCore
     end
   end
 end
+
+# Hash 3278
